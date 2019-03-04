@@ -14,8 +14,8 @@ $(document).ready(function() {
 
       $(".tst2").click(function(){
            $.toast({
-            heading: 'Welcome to my Pixel admin',
-            text: 'Use the predefined ones, or specify a custom position object.',
+            heading: 'Welcome to multi-host-file-synchroniser',
+            text: '©2019 Group Project',
             position: 'top-right',
             loaderBg:'#ff6849',
             icon: 'warning',
